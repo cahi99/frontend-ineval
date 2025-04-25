@@ -24,7 +24,7 @@
 
   "build": {
     "appId": "1010101010101", 
-    "productName": "Nombre de Tu App",
+    "productName": "Prueba Ineval",
     "directories": {
       "output": "dist",
       "buildResources": "build" 
